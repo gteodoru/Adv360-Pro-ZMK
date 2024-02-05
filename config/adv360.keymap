@@ -60,7 +60,7 @@
             bindings = <
 &kp F1  &kp F2     &kp F3     &kp F4              &kp F5               &kp F6     &tog 1                                                                          &mo 3                 &kp F7            &kp F8                &kp F9                  &kp F10    &kp F11        &kp F12
 &trans  &none      &kp LG(W)  &trans              &kp LG(R)            &kp LG(T)  &trans                                                                          &kp LEFT_PARENTHESIS  &kp RPAR          &none                 &kp UP_ARROW            &none      &trans         &kp GRAVE
-&trans  &kp LG(A)  &none      &none               &kp LG(F)            &none      &trans        &trans         &kp C_PLAY_PAUSE      &kp C_MUTE    &trans         &kp LEFT_BRACE        &kp RBRC          &kp LEFT              &kp DOWN_ARROW          &kp RIGHT  &kp COLON      &kp DOUBLE_QUOTES
+&trans  &kp LG(A)  &none      &kp LG(D)           &kp LG(F)            &none      &trans        &trans         &kp C_PLAY_PAUSE      &kp C_MUTE    &trans         &kp LEFT_BRACE        &kp RBRC          &kp LEFT              &kp DOWN_ARROW          &kp RIGHT  &kp COLON      &kp DOUBLE_QUOTES
 &trans  &kp LG(Z)  &kp LG(X)  &kp LG(V)           &kp LG(C)            &none                                   &kp C_NEXT            &kp C_VOL_UP                                       &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &none                   &none      &kp LG(SLASH)  &kp LG(SPACE)
 &trans  &none      &none      &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)             &kp LEFT_WIN  &kp LA(ENTER)  &kp C_PREV            &kp C_VOL_DN  &kp RS(ENTER)  &kp ENTER                               &kp LS(LG(UP_ARROW))  &kp LG(LS(DOWN_ARROW))  &trans     &trans         &trans
             >;
