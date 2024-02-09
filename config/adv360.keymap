@@ -42,7 +42,7 @@
 &kp TAB    &kp Q      &kp W           &kp E            &kp R         &kp T   &kp LG(GRAVE)                                                                &kp LG(LS(RIGHT_BRACKET))  &kp Y   &kp U         &kp I           &kp O     &kp P      &kp BSLH
 &kp EQUAL  &kp A      &kp S           &kp D            &kp F         &kp G   &kp RG(RC(Q))  &kp LEFT_CONTROL  &kp LEFT_ALT      &kp RCTRL  &kp RIGHT_ALT  &kp LS(LG(LEFT_BRACKET))   &kp H   &kp J         &kp K           &kp L     &kp SEMI   &kp SQT
 &kp LSHFT  &kp Z      &kp X           &kp V            &kp C         &kp B                                    &kp HOME          &kp PG_UP                                            &kp N   &kp M         &kp COMMA       &kp DOT   &kp SLASH  &kp RIGHT_SHIFT
-&tog 2     &kp GRAVE  &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp LEFT_GUI          &kp BACKSPACE  &kp DEL           &kp END           &mo 2      &kp ENTER      &kp SPACE                          &kp UP_ARROW  &kp DOWN_ARROW  &kp LBKT  &kp RBKT   &mo 2
+&mo 2      &kp GRAVE  &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp LEFT_GUI          &kp BACKSPACE  &kp DEL           &kp END           &mo 2      &kp ENTER      &kp SPACE                          &kp UP_ARROW  &kp DOWN_ARROW  &kp LBKT  &kp RBKT   &mo 2
             >;
         };
 
