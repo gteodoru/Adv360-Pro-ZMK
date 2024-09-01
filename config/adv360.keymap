@@ -87,11 +87,11 @@
 
         win_fn_layer {
             bindings = <
-&none  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &none                                        &trans                  &none  &none                   &none                    &none  &none  &none
-&none  &none         &none         &none         &none         &none         &bootloader                                  &bootloader             &none  &none                   &none                    &none  &none  &none
-&none  &none         &none         &none         &none         &none         &none        &none  &none      &none  &none  &rgb_ug RGB_MEFS_CMD 5  &none  &none                   &none                    &none  &none  &none
-&none  &none         &none         &none         &macro_ver    &none                             &none      &none                                 &none  &none                   &none                    &none  &none  &none
-&none  &none         &none         &none         &none                       &kp LA(F12)  &none  &none      &none  &none  &kp RA(GRAVE)                  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))  &none  &none  &none
+&none  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &none                                                &trans                  &none  &none                   &none                    &none  &none  &none
+&none  &none         &none         &none         &none         &none         &bootloader                                          &bootloader             &none  &none                   &none                    &none  &none  &none
+&none  &none         &none         &none         &none         &none         &none        &none  &none      &none  &kp LA(LC(L))  &rgb_ug RGB_MEFS_CMD 5  &none  &none                   &none                    &none  &none  &none
+&none  &none         &none         &none         &macro_ver    &none                             &none      &none                                         &none  &none                   &none                    &none  &none  &none
+&none  &none         &none         &none         &none                       &kp LA(F12)  &none  &none      &none  &none          &kp RA(GRAVE)                  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))  &none  &none  &none
             >;
         };
     };
